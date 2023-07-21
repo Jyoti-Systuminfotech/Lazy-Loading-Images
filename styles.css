@@ -1,0 +1,19 @@
+body {
+    margin: 20px;
+    font-family: 'Lato';
+    font-weight: 300;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  
+  img {
+    width: 400px;
+    height: 400px;
+  }
+  
+  img.lazy-load {
+    background: #ececec;
+  }
